@@ -1,0 +1,16 @@
+com\example\aggregator\repositories\BankStatementRepository.class
+com\example\aggregator\utils\DummyDataGenerator.class
+com\example\aggregator\repositories\BranchRepository.class
+com\example\aggregator\models\Company.class
+com\example\aggregator\services\CompanyService.class
+com\example\aggregator\services\UserService.class
+com\example\aggregator\models\Transaction.class
+com\example\aggregator\models\User.class
+com\example\aggregator\controllers\StatementController.class
+com\example\aggregator\repositories\CompanyRepository.class
+com\example\aggregator\services\BankStatementService.class
+com\example\aggregator\models\BankStatement.class
+com\example\aggregator\services\BranchService.class
+com\example\aggregator\models\Branch.class
+com\example\aggregator\Application.class
+com\example\aggregator\repositories\UserRepository.class
